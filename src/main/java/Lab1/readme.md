@@ -4,3 +4,4 @@ This is my 1st lab in Comp3111 - Software Engineering\
 
 Here's the screenshot of my 1st lab in intelliJ:
 
+![Screenshot 2024-09-10 154733.png](Screenshot%202024-09-10%20154733.png)
